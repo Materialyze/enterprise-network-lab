@@ -29,7 +29,7 @@ This project simulates a small enterprise network environment utilizing EVE-NG. 
 
 ## Network Topology
 
-![Network Diagram TBD](topology-diagram.png)
+![Network Diagram](network-topology)
 
 **Node Overview:** 
 
