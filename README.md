@@ -6,7 +6,7 @@ This project simulates a small enterprise network environment utilizing EVE-NG. 
 
 ## Project Goals
 
-- [ ] Create a scalable network topology simulating a real-world enterprise environment
+- [X] ~~Create a scalable network topology simulating a real-world enterprise environment~~ Completed 14 July 2025
 - [ ] Configure VLANs and inter-VLAN routing to segment departments
 - [ ] Implement DHCP and NAT for IP management and internet access
 - [ ] Apply ACLs to control network traffic
@@ -31,9 +31,9 @@ This project simulates a small enterprise network environment utilizing EVE-NG. 
 
 ![Network Diagram TBD](topology-diagram.png)
 
-**Logical Overview:** 
+**Node Overview:** 
 
-- 3 VLANs: TBD
-- 2 Routers: TBD
-- 2 Switches: TBD
-- 1 Firewall Zone: TBD
+- 3 VLANs: VPC
+- 2 Routers: Mikrotik 6.49.19
+- 2 Switches: Cisco vIOS m.03.201.7
+- 1 Firewall: FortiGate 7.6.3
