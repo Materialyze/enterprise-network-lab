@@ -1,4 +1,4 @@
-# Materialyze's Virtual Enterprise Network Simulation Lab
+# Gavin's Virtual Enterprise Network Simulation Lab
 
 This project simulates a small enterprise network environment utilizing EVE-NG. This lab includes VLAN segmentation, inter-VLAN routing, static and dynamic routing, NAT, DHCP, and access control lists (ACLs). It is designed to demonstrate core networking concepts aligned with CompTIA Network+ and Cisco CCNA certification objectives.
 
